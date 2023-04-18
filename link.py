@@ -4,8 +4,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from time import sleep
 
-EMAIL='erick-pirata4@hotmail.com'
-SENHA='Erick1@3$5'
+EMAIL='Seu email'
+SENHA='Sua senha'
 
 url='https://www.linkedin.com/jobs/search/?currentJobId=3551928327&f_LF=f_AL&geoId=106057199&keywords=desenvolvedor%20python&location=Brazil&refresh=true'
 
